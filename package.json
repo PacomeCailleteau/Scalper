@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wozniakpawel/scalper.git"
+    "url": "git+https://github.com/PacomeCailleteau/Scalper.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wozniakpawel/scalper/issues"
+    "url": "https://github.com/PacomeCailleteau/Scalper/issues"
   },
-  "homepage": "https://github.com/wozniakpawel/scalper#readme",
+  "homepage": "https://github.com/PacomeCailleteau/Scalper#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "puppeteer": "^5.5.0"
